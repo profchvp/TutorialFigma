@@ -1,0 +1,62 @@
+TUTORIAL DE FIGMA - SE TORNE UM UI DESIGNER [Aula 01]
+https://www.youtube.com/watch?v=Yh6zvnDzerU
+
+TUTORIAL DE FIGMA - SE TORNE UM UI DESIGNER [Aula 02]
+https://www.youtube.com/watch?v=yUu-5TF6lpc
+
+TUTORIAL DE FIGMA - SE TORNE UM UI DESIGNER [Aula 03]
+https://www.youtube.com/watch?v=F-n0iXlGzWo
+
+
+
+
+AULÃO DE FIGMA - Criando uma Landing Page do zero!
+
+https://www.youtube.com/watch?v=CLfBN8zLXw4
+
+========================================================
+Passos para fazer projeto no figma
+
+1- Fazer Briefing
+   pode ser pelo googleforms
+          >nome da empresa
+		  >responsável
+          >email
+          >Ja possui site?
+               sim       >endereço do site       
+               Nao       >Já tem domínio?
+          >Possui identidade visual
+                 >Sim vou enviar
+                 >sim,mas quero um novo
+                 >nao, mas quero fazer
+          >Possui textos para o site?
+                 .sim vou enviar          
+                 .Não, precisa ser feito
+          >Possui fotos para o produto?
+                 .sim,vou enviar
+                 .nao, precisa ser feito
+          > Selecione paginas que vamos criar
+                 >Institucional
+                 >Landing page de produto
+                 >Página de captura
+                 >Página de vendas
+                 >Página de obrigado
+                 >Não tenho certeza, me ajuda
+         >Qual é o bjetivo do seu site?
+         >Qual é o público alvo do projeto
+         >Terá integração com algum CRM
+         >Vai ser preciso configurar algum pixwl de conversão(rastreador de comportamento)?
+                   .Facebook
+                   .Google Ads 	
+                   .pinterest
+2- entender as necessidades do cliente
+3-Entender o nicho
+4-Conhecer concorrentes				   
+5 - Fazer mapa mental (miro.com)
+6-Buscar referências de site no https://www.behance.net/onboarding/adobe
+   dica: composição de imagens podem ser copiadas no "painel semântico
+            usar plugin no navegador para captura de "fragmentos de imagnes:
+			 https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=pt
+			 
+
+        
